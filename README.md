@@ -16,13 +16,14 @@ Ce montage n'a pas besoin de ni: __fin de course__ (le réglage de la longueur d
 Et le soir, quand je vais voir si nos poules vont bien, je relève les œufs du jour, je retire les graines du poulailler (que les souris ne viennent pas se servir) et je re-transvase l'eau du __bidon "E"__ dans le __réservoir "D"__ et le cycle est prêt pour le lendemain matin.
 
 !["alt text"](https://github.com/jeantu1/porte-des-poules/blob/main/schema_porte.jpg)
+
 Il faut par contre un câble électrique (2x12v) qui part de la maison jusqu'au poulailler.
 
 
 !["alt text"](https://github.com/jeantu1/porte-des-poules/blob/main/mecanisme_ensemble.jpg)
 
 
-porte ![alt text](https://github.com/jeantu1/porte-des-poules/blob/main//porte.jpg)
+Ouverture porte ![alt text](https://github.com/jeantu1/porte-des-poules/blob/main//porte.jpg)
 
 horloge de commande et transformateur 12v !["alt text"](https://github.com/jeantu1/porte-des-poules/blob/main/commande1.jpg)
 
