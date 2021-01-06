@@ -4,7 +4,7 @@
 
 Je suis en retraite (_donc du temps de libre_ lol) J'ai toujours aimé bricoler et... j'ai un poulailler avec deux poules !! (le coq s'est fait manger par un renard… snif)
 
-![alt text](https://github.com/jeantu1/porte-des-poules/blob/main/IMGP1252reduit.jpg)
+![alt text](https://github.com/jeantu1/porte-des-poules/blob/main/photos/IMGP1252reduit.jpg)
 
 ### Cela n'a pas duré longtemps de devoir me lever le matin de bonne heure pour ouvrir la porte aux poules. J'ai donc équipé ce poulailler d'une porte commandée électriquement et automatiquement en fonction d'une heure bien définie.
 
@@ -15,18 +15,18 @@ Ce montage n'a pas besoin de ni: __fin de course__ (le réglage de la longueur d
 
 Et le soir, quand je vais voir si nos poules vont bien, je relève les œufs du jour, je retire les graines du poulailler (que les souris ne viennent pas se servir) et je re-transvase l'eau du __bidon "E"__ dans le __réservoir "D"__ et le cycle est prêt pour le lendemain matin.
 
-!["alt text"](https://github.com/jeantu1/porte-des-poules/blob/main/schema_porte.jpg)
+!["alt text"](https://github.com/jeantu1/porte-des-poules/blob/main/photos/schema_porte.jpg)
 
 Il faut par contre un câble électrique (2x12v) qui part de la maison jusqu'au poulailler.
 
 Detail du systeme
 
-!["alt text"](https://github.com/jeantu1/porte-des-poules/blob/main/mecanisme_ensemble.jpg)
+!["alt text"](https://github.com/jeantu1/porte-des-poules/blob/main/photos/mecanisme_ensemble.jpg)
 
 
-Ouverture porte ![alt text](https://github.com/jeantu1/porte-des-poules/blob/main//porte.jpg)
+Ouverture porte ![alt text](https://github.com/jeantu1/porte-des-poules/photos/blob/main//porte.jpg)
 
-horloge de commande et transformateur 12v !["alt text"](https://github.com/jeantu1/porte-des-poules/blob/main/commande1.jpg)
+horloge de commande et transformateur 12v !["alt text"](https://github.com/jeantu1/porte-des-poules/blob/main/photos/commande1.jpg)
 
 
 __Tout marchait bien__, mais j'ai découverts il y a peu de temps l'__univers Arduino…__
