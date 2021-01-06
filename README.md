@@ -4,7 +4,7 @@
 
 Je suis en retraite (_j'ai donc du temps de libre_ lol) J'ai toujours aimé bricoler et... j'ai un poulailler avec deux poules !! (le coq s'est fait manger par un renard… snif)
 
-![alt text](https://github.com/jeantu1/porte-des-poules/blob/main/photos/IMGP1252reduit.jpg)
+!["alt text"](https://github.com/jeantu1/porte-des-poules/blob/main/photos/IMGP1252reduit.jpg)
 
 ### Cela n'a pas duré longtemps de devoir me lever le matin de bonne heure pour ouvrir la porte aux poules. J'ai donc équipé ce poulailler d'une porte commandée électriquement et automatiquement en fonction d'une heure bien définie.
 
@@ -24,7 +24,7 @@ Detail du systeme
 !["alt text"](https://github.com/jeantu1/porte-des-poules/blob/main/photos/mecanisme_ensemble.jpg)
 
 
-Ouverture porte ![alt text](https://github.com/jeantu1/porte-des-poules/photos/blob/main//porte.jpg)
+Ouverture porte !["alt text"](https://github.com/jeantu1/porte-des-poules/photos/blob/main//porte.jpg)
 
 horloge de commande et transformateur 12v !["alt text"](https://github.com/jeantu1/porte-des-poules/blob/main/photos/commande1.jpg)
 
