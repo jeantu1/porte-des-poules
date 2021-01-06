@@ -24,7 +24,7 @@ Detail du systeme
 !["alt text"](https://github.com/jeantu1/porte-des-poules/blob/main/photos/mecanisme_ensemble.jpg)
 
 
-Ouverture porte !["alt text"](https://github.com/jeantu1/porte-des-poules/photos/blob/main//porte.jpg)
+Ouverture porte !["alt text"](https://github.com/jeantu1/porte-des-poules/photos/blob/main/photos/porte.jpg)
 
 horloge de commande et transformateur 12v !["alt text"](https://github.com/jeantu1/porte-des-poules/blob/main/photos/commande1.jpg)
 
