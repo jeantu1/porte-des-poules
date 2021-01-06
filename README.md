@@ -53,3 +53,5 @@ Je développe sous l'IDE Arduino et je découvre en même temps Git (trop bien c
 • N'hésitez pas à me faire des remarques si vous en avez, sachant que je ne suis pas programmeur, mais mécanicien tourneur de formation (soyer indulgent! lol)
 
  L’installation se fait au travers de l’ __IDE d'Arduino__ et depuis peu d'__Atom__.
+ 
+ Mise à jour le 6/1/2021
