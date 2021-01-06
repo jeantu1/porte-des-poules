@@ -19,6 +19,7 @@ Et le soir, quand je vais voir si nos poules vont bien, je relève les œufs du 
 
 Il faut par contre un câble électrique (2x12v) qui part de la maison jusqu'au poulailler.
 
+Detail du systeme
 
 !["alt text"](https://github.com/jeantu1/porte-des-poules/blob/main/mecanisme_ensemble.jpg)
 
@@ -32,7 +33,7 @@ horloge de commande et transformateur 12v !["alt text"](https://github.com/jeant
 
 __Tout marchait bien__, mais j'ai découverts il y a peu de temps l'__univers Arduino…__
 
-Étant obligé de changer régulièrement l'heure d'ouverture de la porte en fonction de la lever du jour et ne voulant pas que les poules fassent le bazar en été quand la porte est encore fermée ou l'hiver quand la porte s'ouvre trop tôt et que maître renard ne vienne pas faire son marché, j'en ai profité pour y mettre un arduino à la place de l'horloge sur la prise 220v (j'aurais pu mettre une cellule pour capter la lumière du jour, mais comme ma commande est à la cave… pas de lumière (j'ai les endives qui y poussent !!)
+Étant obligé de changer régulièrement l'heure d'ouverture de la porte en fonction de la lever du jour et ne voulant pas que les poules fassent le bazar en été quand la porte est encore fermée ou l'hiver quand la porte s'ouvre trop tôt et que maître renard ne vienne pas faire son marché, j'en ai profité pour y mettre un arduino à la place de l'horloge sur la prise 220v (j'aurais pu mettre une cellule pour capter la lumière du jour, mais comme ma commande est à la cave… pas de lumière du jour (j'ai les endives qui y poussent !!)
 
 Donc, le but du programme est qu'à partir d'un « Arduino wemos D1 mini » :
 
