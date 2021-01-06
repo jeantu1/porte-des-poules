@@ -4,7 +4,7 @@ Jeantu1 (quand je m'énerve lol)
 
 Je suis en retraite (_donc du temps de libre_ lol) J'ai toujours aimé bricoler et... j'ai un poulailler
 
-![alt text](/home/jmt/Telechargements/IMGP1252reduit.jpg)
+![alt text](https://github.com/jeantu1/porte-des-poules/blob/main/IMGP1252original.JPG.jpg)
 
 Cela n'a pas duré longtemps de devoir me levé le matin de bonne heure pour ouvrir la porte aux poules. J'ai donc équipé ce poulailler d'une porte commandée électriquement et automatiquement en fonction d'une heure bien définie.
 
