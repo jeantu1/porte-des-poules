@@ -2,7 +2,7 @@
 Jeantu1 (quand je m’énerve lol)
 Je suis en retraite (donc du temps de libre lol), j’ai toujours aimé bricoler.
 J’ai découverts l’univers Arduino il y a peut de temps.
-![Optional Text](https://github.com/jeantu1/porte-des-poules/blob/main/IMGP1252original.JPG.jpg)
+![ScreenShot](https://raw.githubusercontent.com/jeantu1/porte-des-poules/blob/main/IMGP1252original.JPG.jpg)
 ![alt tag](https://github.com/jeantu1/porte-des-poules/blob/main/IMGP1252original.JPG.jpg)
 J’ai un poulailler qui est munis d’une porte automatique commandé par une simple prise 220v, type horloge programmé sur la journée j’alimente un transfo 12v qui ouvre la porte. Mais je suis obligé de changer régulièrement l’heure, si je ne veux par que les poules fassent le bazar en été quand la porte est encore fermée ou l’hiver que la porte s’ouvre trop tôt et que maître renard ne vienne faire son marché !
 Donc j'ai mis un arduino à la place de l'horloge sur la prise 220v.
