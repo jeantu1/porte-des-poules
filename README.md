@@ -1,14 +1,14 @@
-#Bonjour
+# Bonjour
 
-##Jeantu1 (quand je m'énerve lol)##
+## Jeantu1 (quand je m'énerve lol)
 
 Je suis en retraite (_donc du temps de libre_ lol) J'ai toujours aimé bricoler et... j'ai un poulailler avec deux poules !! (le coq s'est fait manger par un renard… snif)
 
 ![alt text](https://github.com/jeantu1/porte-des-poules/blob/main/IMGP1252reduit.jpg)
 
-###Cela n'a pas duré longtemps de devoir me lever le matin de bonne heure pour ouvrir la porte aux poules. J'ai donc équipé ce poulailler d'une porte commandée électriquement et automatiquement en fonction d'une heure bien définie.
+### Cela n'a pas duré longtemps de devoir me lever le matin de bonne heure pour ouvrir la porte aux poules. J'ai donc équipé ce poulailler d'une porte commandée électriquement et automatiquement en fonction d'une heure bien définie.
 
-#####Le principe est simple:
+##### Le principe est simple:
 Quand l'__horloge "A__"  (une simple prise 220v programmée, située dans la maison) s'enclenche à l'heure dite (à 5 h du matin je dors encore lol), elle alimente un __transformateur "B"__ 12v qui à son tour alimente (sur le poulailler dans le jardin) une __électro-vanne "C"__.
 Cette électro-vanne, est alimentée pendant environ 5mn, le temps que le 1/2 litre d'eau (qui est un peu supérieur au poids de ma porte) s'écoule  du __réservoir "D"__ (qui est situé en hauteur) dans le __bidon "E"__. En augmentant de poids, le __bidon "E"__, descend et entraîne, par un système de __poulie "F"__ et __câble "G"__, l’ouverture de la __porte "H"__.
 Ce montage n'a pas besoin de ni: __fin de course__ (le réglage de la longueur du câble fait que le bidon touche le sol au moment où la porte est ouverte) ni __de moteur__ (c'est le poids de l'eau qui ouvre la porte)
@@ -51,4 +51,4 @@ Je développe sous l'IDE Arduino et je découvre en même temps Git (trop bien c
 
 • N'hésitez pas à me faire des remarques si vous en avez, sachant que je ne suis pas programmeur, mais mécanicien tourneur de formation (soyer indulgent! lol)
 
-    • L’installation se fait au travers de l’__IDE d'Arduino__ et depuis peu d'__Atom__.
+ L’installation se fait au travers de l’ __IDE d'Arduino__ et depuis peu d'__Atom__.
