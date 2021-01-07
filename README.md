@@ -10,8 +10,8 @@ Je suis en retraite (_j'ai donc du temps de libre_ lol) J'ai toujours aimé bric
 
 ##### Le principe est simple:
 Quand l'__horloge "A__"  (une simple prise 220v programmée, située dans la maison) s'enclenche à l'heure dite (à 5 h du matin je dors encore lol), elle alimente un __transformateur "B"__ 12v qui à son tour alimente (sur le poulailler situé dans le jardin) une __électro-vanne "C"__ *(12v Mini Électrovanne Micro Normalement Fermé. 5€ environ)*
-Cette électro-vanne, est alimentée pendant environ 5mn, pendant lequel s'écoule par gravité, le litre et demi d'eau (qui est un peu supérieur au poids de ma porte) du __réservoir "D"__ (qui est situé en hauteur) vers le __bidon "E"__. En augmentant de poids, le __bidon "E"__, descend et entraîne, par un système de __poulie "F"__ et __câble "G"__, l’ouverture de la __porte "H"__.
-Ce montage n'a pas besoin de ni: __fin de course__ (le réglage de la longueur du câble fait que le bidon touche le sol au moment où la porte est ouverte) ni __de moteur__ (c'est le poids de l'eau qui ouvre la porte)
+Cette électro-vanne, est alimentée pendant environ 5mn, pendant lequel s'écoule au travers d'un tuyau souple et par gravité, le litre et demi d'eau (qui est un peu supérieur au poids de ma porte) du __réservoir "D"__ (qui est situé en hauteur) vers le __bidon "E"__. En augmentant de poids, le __bidon "E"__, descend et entraîne, par un système de __poulie "F"__ et __câble "G"__, l’ouverture de la __porte "H"__.
+Ce montage n'a pas besoin de ni: __fin de course__ (le réglage de la longueur du câble est tel que le bidon touche le sol au moment où la porte est ouverte) ni __de moteur__ (c'est le poids de l'eau qui ouvre la porte, donc la force est réglable)
 
 !["alt text"](https://github.com/jeantu1/porte-des-poules/blob/main/photos/schema_porte.jpg)
 
