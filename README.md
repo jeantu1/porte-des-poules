@@ -2,7 +2,7 @@
 
 ## Jeantu1 (quand je m'énerve lol)
 
-Je suis en retraite (_j'ai donc du temps de libre_ lol) J'ai toujours aimé bricoler et... j'ai un poulailler avec deux poules !! (le coq s'est fait manger par un renard… snif)
+Je suis en retraite (_j'ai donc du temps de libre_ lol) J'ai toujours aimé bricoler et... j'ai un poulailler avec deux poules !! (le coq s'est fait mangé par un renard… snif)
 
 !["alt text"](https://github.com/jeantu1/porte-des-poules/blob/main/photos/IMGP1252reduit.jpg)
 
@@ -10,8 +10,8 @@ Je suis en retraite (_j'ai donc du temps de libre_ lol) J'ai toujours aimé bric
 
 ##### Le principe est simple:
 Quand l'__horloge "A__"  (une simple prise 220v programmée, située dans la maison) s'enclenche à l'heure dite (à 5 h du matin je dors encore lol), elle alimente un __transformateur "B"__ 12v qui à son tour alimente (sur le poulailler situé dans le jardin) une __électro-vanne "C"__ *(12v Mini Électrovanne Micro Normalement Fermé. 4€ environ)*
-Cette électro-vanne, est alimentée pendant environ 5mn, pendant lequel s'écoule au travers d'un tuyau souple et par gravité, le litre et demi d'eau (qui est un peu supérieur au poids de ma porte) du __réservoir "D"__ (qui est situé en hauteur) vers le __bidon "E"__. En augmentant de poids, le __bidon "E"__, descend et entraîne, par un système de __poulie "F"__ et __câble "G"__, l’ouverture de la __porte "H"__.
-Ce montage n'a pas besoin de ni: __fin de course__ (le réglage de la longueur du câble est tel que le bidon touche le sol au moment où la porte est ouverte) ni __de moteur__ (c'est le poids de l'eau qui ouvre la porte, donc la force est réglable)
+Cette électro-vanne, est alimentée pendant environ 5mn, temps pendant lequel s'écoule au travers d'un tuyau souple et par gravité, le litre et demi d'eau (qui est un peu supérieur au poids de ma porte) du __réservoir "D"__ (qui est situé en hauteur) vers le __bidon "E"__. En augmentant de poids, le __bidon "E"__, descend et entraîne, par un système de __poulie "F"__ et __câble "G"__, l’ouverture de la __porte "H"__.
+Ce montage n'a pas besoin ni de __fin de course__ (le réglage de la longueur du câble est tel que le bidon touche le sol au moment où la porte est ouverte) ni __de moteur__ (c'est le poids de l'eau qui ouvre la porte, donc la force est réglable)
 
 !["alt text"](https://github.com/jeantu1/porte-des-poules/blob/main/photos/schema_porte.jpg)
 
@@ -29,9 +29,9 @@ Ouverture porte !["alt text"](https://github.com/jeantu1/porte-des-poules/blob/m
 horloge de commande et transformateur 12v !["alt text"](https://github.com/jeantu1/porte-des-poules/blob/main/photos/commande1.jpg)
 
 
-__Tout marchait bien__, mais j'ai découverts il y a peu de temps l'__univers Arduino…__
+__Tout marchait bien__, mais j'ai découvert il y a peu de temps l'__univers Arduino…__
 
-Étant obligé de changer régulièrement l'heure d'ouverture de la porte en fonction de la lever du jour et ne voulant pas que les poules fassent le bazar en été quand la porte est encore fermée ou l'hiver quand la porte s'ouvre trop tôt et que maître renard ne vienne pas faire son marché, j'en ai profité pour y mettre un arduino à la place de l'horloge sur la prise 220v (j'aurais pu mettre une cellule pour capter la lumière du jour, mais comme ma commande est à la cave… pas de lumière du jour (j'ai les endives qui y poussent !!)
+Étant obligé de changer régulièrement l'heure d'ouverture de la porte en fonction de l'heure de lever du jour et ne voulant pas que les poules fassent le bazar en été quand la porte est encore fermée ou l'hiver quand la porte s'ouvre trop tôt et que maître renard ne vienne pas faire son marché, j'en ai profité pour y mettre un arduino à la place de l'horloge sur la prise 220v. J'aurais pu mettre une cellule pour capter la lumière du jour, mais comme ma commande est à la cave… pas de lumière du jour (j'ai les endives qui y poussent !!)
 
 Donc, le but du programme est qu'à partir d'un « Arduino wemos D1 mini » :
 
@@ -39,7 +39,7 @@ Donc, le but du programme est qu'à partir d'un « Arduino wemos D1 mini » :
 
 * 2) je récupère aussi une fois par jour, l'heure de lever du soleil du lendemain
 
-* 3) je compare l'heure de l'horloge et celle de lever du soleil; si elle est égale, j'ouvre la porte du poulailler; sinon j'attends l'heure lol.
+* 3) je compare l'heure de l'horloge et celle de lever du soleil ; si elle est égale, j'ouvre la porte du poulailler; sinon j'attends l'heure lol.
 
 L'arduino et son relais qui pilote le transfo !["alt text"](https://github.com/jeantu1/porte-des-poules/blob/main/photos/arduino_porte.jpg)
 
