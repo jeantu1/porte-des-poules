@@ -9,8 +9,6 @@ _Jeantu1 (quand je m'énerve lol)_
 
 _Je suis en retraite (j'ai donc du temps de libre lol) J'ai toujours aimé bricoler et... j'ai un poulailler avec deux poules !! (le coq s'est fait mangé par un renard… snif)_
 
-!["alt text"](https://github.com/jeantu1/porte-des-poules/blob/main/photos/IMGP1252reduit.jpg | width=50)
-
 <p align="center">
 <img src="https://github.com/jeantu1/porte-des-poules/blob/main/photos/IMGP1252reduit.jpg" width="480">
  </p>
@@ -26,19 +24,39 @@ Ce montage n'a besoin ni de __fin de course__ (_le réglage de la longueur du c�
 
 !["alt text"](https://github.com/jeantu1/porte-des-poules/blob/main/photos/schema_porte.jpg)
 
+<p align="center">
+<img src="https://github.com/jeantu1/porte-des-poules/blob/main/photos/schema_porte.jpg" width="480">
+ </p>
+
 Le soir, quand je vais voir si nos poules vont bien, je relève les œufs du jour, je retire les graines du poulailler (que les souris ne viennent pas se servir) et je re-transvase l'eau du __bidon E__ dans le __réservoir D__ et le cycle est prêt pour le lendemain matin.
 
 Il faut par contre un câble électrique (_2x12volts_) qui part de la maison jusqu'au poulailler.
 
 Detail du systeme
 
-!["alt text"](https://github.com/jeantu1/porte-des-poules/blob/main/photos/mecanisme_ensemble.jpg)
 
+
+<p align="center">
+ Detail du systeme
+<img src="https://github.com/jeantu1/porte-des-poules/blob/main/photos/mecanisme_ensemble.jpg" width="480">
+ </p>
+ 
+ <p align="center">
+  Ouverture porte 
+<img src="https://github.com/jeantu1/porte-des-poules/blob/main/photos/porte.jpg" width="480">
+ </p>
+ 
+ <p align="center">
+horloge de commande et transformateur 12v
+<img src="https://github.com/jeantu1/porte-des-poules/blob/main/photos/commande1.jpg" width="480">
+ </p>
+*****
+!["alt text"](https://github.com/jeantu1/porte-des-poules/blob/main/photos/mecanisme_ensemble.jpg)
 
 Ouverture porte !["alt text"](https://github.com/jeantu1/porte-des-poules/blob/main/photos/porte.jpg)
 
 horloge de commande et transformateur 12v !["alt text"](https://github.com/jeantu1/porte-des-poules/blob/main/photos/commande1.jpg)
-
+*****
 
 ## La mise en place d'un arduino
 Tout marchait bien, mais j'ai découvert il y a peu de temps l'univers de l'__Arduino !__
