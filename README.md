@@ -66,7 +66,11 @@ Donc, le but du programme est qu'à partir d'un _Arduino wemos D1 mini_ :
 
 3. je compare l'heure de l'horloge et celle de lever du soleil ; si elle est égale, j'ouvre la porte du poulailler; sinon j'attends l'heure _lol_.
 
-L'arduino et son relais qui pilote le transfo !["alt text"](https://github.com/jeantu1/porte-des-poules/blob/main/photos/arduino_porte.jpg)
+
+ <p align="center">
+ <strong> L'arduino et son relais qui pilote le transfo </strong><br>
+<img src="https://github.com/jeantu1/porte-des-poules/blob/main/photos/arduino_porte.jpg" width="480">
+ </p>
 
 ## Développement
 * 8 novembre 2020, confinement oblige, je suis en train d'écrire le programme.
