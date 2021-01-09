@@ -7,7 +7,7 @@ _Bonjour_
 
 _Jeantu1 (quand je m'énerve lol)_  
 
-_Je suis en retraite (j'ai donc du temps de libre lol) J'ai toujours aimé bricoler et... j'ai un poulailler avec deux poules !! (le coq s'est fait mangé par un renard… snif)_
+_Je suis en retraite (j'ai donc du temps de libre lol) J'ai toujours aimé bricoler et... j'ai un poulailler avec deux poules !! (le coq s'est fait manger par un renard… snif)_
 
 <p align="center">
  <strong> Le poulailler</strong> <br>
