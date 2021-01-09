@@ -11,9 +11,9 @@ _Je suis en retraite (j'ai donc du temps de libre lol) J'ai toujours aimé brico
 
 !["alt text"](https://github.com/jeantu1/porte-des-poules/blob/main/photos/IMGP1252reduit.jpg | width=50)
 
-<center>
+<p align="center">
 <img src="https://github.com/jeantu1/porte-des-poules/blob/main/photos/IMGP1252reduit.jpg" width="480">
- </center>
+ </p>
  
 _Cela n'a pas duré longtemps de devoir me lever le matin de bonne heure pour ouvrir la porte aux poules. J'ai donc équipé ce poulailler d'une porte commandée électriquement et automatiquement en fonction d'une heure bien définie._
 
