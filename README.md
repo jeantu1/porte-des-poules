@@ -9,7 +9,9 @@ _Jeantu1 (quand je m'énerve lol)_
 
 _Je suis en retraite (j'ai donc du temps de libre lol) J'ai toujours aimé bricoler et... j'ai un poulailler avec deux poules !! (le coq s'est fait mangé par un renard… snif)_
 
-!["alt text"](https://github.com/jeantu1/porte-des-poules/blob/main/photos/IMGP1252reduit.jpg | width = 50)
+!["alt text"](https://github.com/jeantu1/porte-des-poules/blob/main/photos/IMGP1252reduit.jpg | width=50)
+
+<img src="https://github.com/jeantu1/porte-des-poules/blob/main/photos/IMGP1252reduit.jpg" width="480">
 
 _Cela n'a pas duré longtemps de devoir me lever le matin de bonne heure pour ouvrir la porte aux poules. J'ai donc équipé ce poulailler d'une porte commandée électriquement et automatiquement en fonction d'une heure bien définie._
 
