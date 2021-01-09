@@ -10,7 +10,7 @@ _Jeantu1 (quand je m'énerve lol)_
 _Je suis en retraite (j'ai donc du temps de libre lol) J'ai toujours aimé bricoler et... j'ai un poulailler avec deux poules !! (le coq s'est fait mangé par un renard… snif)_
 
 <p align="center">
- Le poulailler <br>
+ <strong> Le poulailler</strong> <br>
 <img src="https://github.com/jeantu1/porte-des-poules/blob/main/photos/IMGP1252reduit.jpg" width="480">
  </p>
  
@@ -24,7 +24,7 @@ Cette électro-vanne, est alimentée pendant environ 5mn, temps pendant lequel s
 Ce montage n'a besoin ni de __fin de course__ (_le réglage de la longueur du câble est tel que le bidon touche le sol au moment où la porte est ouverte_) ni __de moteur__ (_c'est le poids de l'eau qui ouvre la porte, donc la force est réglable_)
 
 <p align="center">
- Schéma de principe <br>
+  <strong> Schéma de principe </strong> <br>
 <img src="https://github.com/jeantu1/porte-des-poules/blob/main/photos/schema_porte.jpg" width="480">
  </p>
 
@@ -37,26 +37,20 @@ Detail du systeme
 
 
 <p align="center">
- Detail du systeme
+ <strong> Détail du systeme </strong> <br>
 <img src="https://github.com/jeantu1/porte-des-poules/blob/main/photos/mecanisme_ensemble.jpg" width="480">
  </p>
  
  <p align="center">
-  Ouverture porte 
+<strong> Ouverture porte </strong><br>
 <img src="https://github.com/jeantu1/porte-des-poules/blob/main/photos/porte.jpg" width="480">
  </p>
  
  <p align="center">
+ <strong> horloge de commande et transformateur 12v </strong><br>
 horloge de commande et transformateur 12v
 <img src="https://github.com/jeantu1/porte-des-poules/blob/main/photos/commande1.jpg" width="480">
  </p>
-*****
-!["alt text"](https://github.com/jeantu1/porte-des-poules/blob/main/photos/mecanisme_ensemble.jpg)
-
-Ouverture porte !["alt text"](https://github.com/jeantu1/porte-des-poules/blob/main/photos/porte.jpg)
-
-horloge de commande et transformateur 12v !["alt text"](https://github.com/jeantu1/porte-des-poules/blob/main/photos/commande1.jpg)
-*****
 
 ## La mise en place d'un arduino
 Tout marchait bien, mais j'ai découvert il y a peu de temps l'univers de l'__Arduino !__
