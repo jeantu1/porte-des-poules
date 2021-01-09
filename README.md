@@ -48,7 +48,6 @@ Detail du systeme
  
  <p align="center">
  <strong> horloge de commande et transformateur 12v </strong><br>
-horloge de commande et transformateur 12v
 <img src="https://github.com/jeantu1/porte-des-poules/blob/main/photos/commande1.jpg" width="480">
  </p>
 
