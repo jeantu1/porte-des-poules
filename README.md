@@ -10,6 +10,7 @@ _Jeantu1 (quand je m'énerve lol)_
 _Je suis en retraite (j'ai donc du temps de libre lol) J'ai toujours aimé bricoler et... j'ai un poulailler avec deux poules !! (le coq s'est fait mangé par un renard… snif)_
 
 <p align="center">
+ Le poulailler <br>
 <img src="https://github.com/jeantu1/porte-des-poules/blob/main/photos/IMGP1252reduit.jpg" width="480">
  </p>
  
@@ -22,9 +23,8 @@ Cette électro-vanne, est alimentée pendant environ 5mn, temps pendant lequel s
 
 Ce montage n'a besoin ni de __fin de course__ (_le réglage de la longueur du câble est tel que le bidon touche le sol au moment où la porte est ouverte_) ni __de moteur__ (_c'est le poids de l'eau qui ouvre la porte, donc la force est réglable_)
 
-!["alt text"](https://github.com/jeantu1/porte-des-poules/blob/main/photos/schema_porte.jpg)
-
 <p align="center">
+ Schéma de principe <br>
 <img src="https://github.com/jeantu1/porte-des-poules/blob/main/photos/schema_porte.jpg" width="480">
  </p>
 
