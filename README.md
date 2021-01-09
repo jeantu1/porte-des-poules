@@ -32,10 +32,6 @@ Le soir, quand je vais voir si nos poules vont bien, je relève les œufs du jou
 
 Il faut par contre un câble électrique (_2x12volts_) qui part de la maison jusqu'au poulailler.
 
-Detail du systeme
-
-
-
 <p align="center">
  <strong> Détail du systeme </strong> <br>
 <img src="https://github.com/jeantu1/porte-des-poules/blob/main/photos/mecanisme_ensemble.jpg" width="480">
