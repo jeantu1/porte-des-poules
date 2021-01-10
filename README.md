@@ -74,7 +74,7 @@ Donc, le but du programme est qu'à partir d'un _Arduino wemos D1 mini_ :
 ## Conclusion (provisoire)
 Sans en changer le principe (qui est en place et tourne déjà sans problème), je pense améliorer la mise en forme et l'écriture du programme __"porte_poules.ino"__ celui qui est en place est un peu fouillis et sans vraiment de structure.
 
-L’installation et le développement s'est fait au travers de l’ __IDE d'Arduino__ et, depuis peu, à partir d'__Atom__ et je découvre en même temps _Git_ (trop bien ce système et ce principe. Merci Monsieur __Linus Torvalds__)
+L’installation et le développement s'est fait au travers de l’ __IDE d'Arduino__ et, depuis peu, à partir d'__Atom__ et je découvre en même temps _Git_ (trop bien ce système et ce principe) Merci Monsieur __Linus Torvalds__.
 
 N'hésitez pas à me faire des remarques si vous en avez, sachant que je ne suis pas programmeur, mais mécanicien tourneur de formation (_soyez indulgent! lol_)
  
