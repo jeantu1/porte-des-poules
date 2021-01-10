@@ -1,10 +1,6 @@
-# Arduino : 
-# porte de poulailler d'après le lever du soleil
-****
-#### Présentation
-# essai
+_Bonjour_ 
 
-_Bonjour_  
+#### Présentation
 
 _Jeantu1 (quand je m'énerve lol)_  
 
@@ -47,6 +43,8 @@ Il faut par contre un câble électrique (_2x12volts_) qui part de la maison jus
  <strong> horloge de commande et transformateur 12v </strong><br>
 <img src="https://github.com/jeantu1/porte-des-poules/blob/main/photos/commande1.jpg" width="480">
  </p>
+ 
+# Arduino et ouvreture porte d'après le lever du soleil
 
 ## La mise en place d'un arduino
 Tout marchait bien, mais j'ai découvert il y a peu de temps l'univers de l'__Arduino !__
@@ -74,12 +72,9 @@ Donc, le but du programme est qu'à partir d'un _Arduino wemos D1 mini_ :
 * 06 janvier 2021, les collègues du club informatique linux m'ont dit que ce serait bien de développer le sujet (ce que je viens de faire)
 
 ## Conclusion (provisoire)
-Je vais dans les prochains jours, améliorer le programme __"porte_poules.ino"__
+Sans en changer le principe (qui est en place et tourne déjà sans problème), je pense améliorer la mise en forme et l'écriture du programme __"porte_poules.ino"__ celui qui est en place est un peu fouillis et sans vraiment de structure.
 
-Je développe sous l'_IDE Arduino_ et je découvre en même temps _Git_ (trop bien ce système et ce principe merci __Linus Torvalds__)
+L’installation et le développement s'est fait au travers de l’ __IDE d'Arduino__ et, depuis peu, à partir d'__Atom__ et je découvre en même temps _Git_ (trop bien ce système et ce principe. Merci Monsieur __Linus Torvalds__)
 
 N'hésitez pas à me faire des remarques si vous en avez, sachant que je ne suis pas programmeur, mais mécanicien tourneur de formation (_soyez indulgent! lol_)
-
- L’installation se fait au travers de l’ __IDE d'Arduino__ et depuis peu a partir d'__Atom__.
  
- Mise à jour le 7/1/2021
